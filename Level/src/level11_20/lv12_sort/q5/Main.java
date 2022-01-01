@@ -1,4 +1,4 @@
-package level11_20.lv12_Sort.q5;
+package level11_20.lv12_sort.q5;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

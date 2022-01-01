@@ -1,4 +1,4 @@
-package level11_20.lv12_Sort.q1_n2;
+package level11_20.lv12_sort.q1_n2;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

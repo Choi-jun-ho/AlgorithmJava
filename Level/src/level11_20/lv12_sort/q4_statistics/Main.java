@@ -1,4 +1,4 @@
-package level11_20.lv12_Sort.q4_statistics;
+package level11_20.lv12_sort.q4_statistics;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

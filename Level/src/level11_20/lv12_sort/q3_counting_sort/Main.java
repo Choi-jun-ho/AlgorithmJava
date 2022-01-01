@@ -1,4 +1,4 @@
-package level11_20.lv12_Sort.q3_counting_sort;
+package level11_20.lv12_sort.q3_counting_sort;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
